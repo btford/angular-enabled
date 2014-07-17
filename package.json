@@ -4,7 +4,7 @@
   "description": "bind to disabled attibute opposite ng-disable",
   "main": "enabled.js",
   "scripts": {
-    "test": "./node_modules/.bin/bower install && ./node_modules/.bin/karma start karma.conf.js --browsers Firefox --single-run"
+    "test": "bower install && karma start karma.conf.js --browsers Firefox --single-run"
   },
   "repository": {
     "type": "git",
