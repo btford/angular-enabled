@@ -21,7 +21,6 @@
     "url": "https://github.com/btford/angular-enabled/issues"
   },
   "devDependencies": {
-    "bower": "^1.2.7",
     "karma": "^0.12.17",
     "karma-chrome-launcher": "^0.1.4",
     "karma-firefox-launcher": "^0.1.3",
