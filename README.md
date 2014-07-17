@@ -1,4 +1,4 @@
-# angular-enable
+# angular-enabled [![Build Status](https://travis-ci.org/btford/angular-enabled.svg)](https://travis-ci.org/btford/angular-enabled)
 complement of `ng-disable`
 
 ## Why isn't this in core?
