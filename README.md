@@ -2,7 +2,7 @@
 complement of `ng-disable`
 
 ## Why isn't this in core?
-[cuz.](https://github.com/angular/angular.js/issues/1252)
+[cuz.](https://github.com/angular/angular.js/issues/1252#issuecomment-49261373)
 
 ## Install
 1. `bower install angular-enabled` or [download the zip](https://github.com/btford/angular-enabled/archive/master.zip).
